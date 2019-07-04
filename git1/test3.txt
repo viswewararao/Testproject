@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0A59-63AA
+
+ Directory of C:\Users\Praveen\personal\git1
+
+07/04/2019  11:39 PM    <DIR>          .
+07/04/2019  11:39 PM    <DIR>          ..
+07/04/2019  10:51 PM               353 test.txt
+07/04/2019  11:21 PM               403 test2.txt
+07/04/2019  11:39 PM                 0 test3.txt
+               3 File(s)            756 bytes
+               2 Dir(s)  22,756,274,176 bytes free
